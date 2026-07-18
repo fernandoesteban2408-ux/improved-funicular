@@ -54,5 +54,9 @@
   "devDependencies": {
     "glob": "13.0.6",
     "mocha": "11.7.5"
+  },
+  "dependencies": {
+    "diff": "^9.0.0",
+    "pixelmatch": "^7.2.0"
   }
 }
